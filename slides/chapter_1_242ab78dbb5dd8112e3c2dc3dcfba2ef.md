@@ -17,7 +17,25 @@ title: Descriptive Statistics for Numerical Data
 
 
 `@script`
+Hello everyone, in this video we are going to take a closer look at Descriptive Statistics for numerical data, specifically age levels of ten respondents. Unit of age is in years.  
 
+Let’s start by summarizing our data and the first thing to do is to count the number of observations in our data. We will do that with the Count function. The code is <=count(B3:B13)> , which gives us the value 10 showing that the number of observations is 10. 
+
+The most commonly used measure of central tendency is mean, which gives an idea of the average value of the data set. We will use the average function to find out the mean of the dataset. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.
+
+Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.
+
+Now, let us look at some important measures of spread, namely variance, standard deviation and range. 
+
+For calculating variance, we use the VAR formula, now there are various options in VAR but we have to select VARA which is for sample variance, whereas VARP is for Population Variance. Using the formula <=VARA(B4:B13)>, we notice that the sample variance is 251.3. 
+
+Another measure of spread is standard deviation which can be calculated in two ways. First, we can use the formula <=sqrt(Variance)> and we get standard deviation of 15.9. Another method is to use STDEVA formula for sample standard deviation which will look like <=STDEVA(B4:B13)>
+
+Note that the result is the same for both the methods, i.e, 15.9.
+
+Another measure is range which is basically the spread between the maximum and minimum values in the dataset. The formula for calculating range is <=MAX(B4:B13)-MIN(B4:B13)> which returns the value 47.
+
+In this video, we have understood how to carry out descriptive statistics for numerical data.
 
 
 ---
