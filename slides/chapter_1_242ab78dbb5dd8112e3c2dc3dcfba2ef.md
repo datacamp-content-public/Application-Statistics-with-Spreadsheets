@@ -3,7 +3,7 @@ title: Insert title here
 key: 242ab78dbb5dd8112e3c2dc3dcfba2ef
 
 ---
-## Title Slide
+## Descriptive Statistics
 
 ```yaml
 type: "TitleSlide"
@@ -11,8 +11,9 @@ key: "09d30512a6"
 ```
 
 `@lower_third`
-name: Name Surname
-title: Instructor
+
+name: Vikash Singh
+title: Descriptive Statistics for Numerical Data
 
 
 `@script`
