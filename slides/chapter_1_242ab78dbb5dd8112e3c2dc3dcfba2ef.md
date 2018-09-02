@@ -19,9 +19,13 @@ title: Descriptive Statistics for Numerical Data
 `@script`
 Hello everyone, in this video we are going to take a closer look at Descriptive Statistics for numerical data, specifically age levels of ten respondents. Unit of age is in years.  
 
-Let’s start by summarizing our data and the first thing to do is to count the number of observations in our data. We will do that with the Count function. The code is <=count(B3:B13)> , which gives us the value 10 showing that the number of observations is 10. 
+Let’s start by summarizing our data and the first thing to do is to count the number of observations in our data. We will do that with the Count function. The code is <=count(B3:B13)> , which gives us the value 10 showing that the number of observations is 10. {{}}
 
-The most commonly used measure of central tendency is mean, which gives an idea of the average value of the data set. We will use the average function to find out the mean of the dataset. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.
+In statistics, or measure of central tendency is a central or typical value for a probability distribution. It may also be called a center or location of the distribution. Alternatively, measures of central tendency are often called averages.
+
+The most commonly used measure of central tendency for numerical data are mean and median. 
+
+let us talk about mean first. The Mean indicates the average value of the data set. We will use the average function to find out the mean of the data. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.
 
 Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.
 
@@ -46,6 +50,4 @@ Another measure of spread is standard deviation which can be calculated in two w
 Note that the result is the same for both the methods, i.e, 15.9.
 
 Another measure is range which is basically the spread between the maximum and minimum values in the dataset. The formula for calculating range is <=MAX(B4:B13)-MIN(B4:B13)> which returns the value 47.
-
-In this video, we have understood how to carry out descriptive statistics for numerical data.
 
