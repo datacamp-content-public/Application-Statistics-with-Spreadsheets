@@ -23,11 +23,11 @@ Let’s start by summarizing our data and the first thing to do is to count the 
 
 In statistics, or measure of central tendency is a central or typical value for a probability distribution. It may also be called a center or location of the distribution. Alternatively, measures of central tendency are often called averages.
 
-The most commonly used measure of central tendency for numerical data are mean and median. 
+The most commonly used measure of central tendency for numerical data are mean and median. {{}} 
 
-let us talk about mean first. The Mean indicates the average value of the data set. We will use the average function to find out the mean of the data. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.
+Let us talk about mean first. The Mean indicates the average value of the data set. We will use the average function to find out the mean of the data. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.{{}} 
 
-Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.
+Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.{{}} 
 
 In this video, we have looked at some of the most commonly used measures of central tendency for numerical data. In our next video, we will take our analysis further and look at Measures of Spread, which are very important descriptive statistics techniques.
 
