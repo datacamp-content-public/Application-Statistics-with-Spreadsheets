@@ -25,6 +25,18 @@ The most commonly used measure of central tendency is mean, which gives an idea 
 
 Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.
 
+In this video, we have looked at some of the most commonly used measures of central tendency for numerical data. In our next video, we will take our analysis further and look at Measures of Spread, which are very important descriptive statistics techniques.
+
+
+---
+## Measures of Spread
+
+```yaml
+type: "FinalSlide"
+key: "31a6f96254"
+```
+
+`@script`
 Now, let us look at some important measures of spread, namely variance, standard deviation and range. 
 
 For calculating variance, we use the VAR formula, now there are various options in VAR but we have to select VARA which is for sample variance, whereas VARP is for Population Variance. Using the formula <=VARA(B4:B13)>, we notice that the sample variance is 251.3. 
@@ -36,16 +48,4 @@ Note that the result is the same for both the methods, i.e, 15.9.
 Another measure is range which is basically the spread between the maximum and minimum values in the dataset. The formula for calculating range is <=MAX(B4:B13)-MIN(B4:B13)> which returns the value 47.
 
 In this video, we have understood how to carry out descriptive statistics for numerical data.
-
-
----
-## Final Slide
-
-```yaml
-type: "FinalSlide"
-key: "31a6f96254"
-```
-
-`@script`
-
 
