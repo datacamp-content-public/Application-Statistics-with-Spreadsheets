@@ -39,9 +39,9 @@ In this video, we have looked at some of the most commonly used measures of cent
 
 
 ---
-## Measures of 
+## - Measures of Central tendency {{1}}
 
-- Spread
+- Measures of Spread {{2}}
 
 ```yaml
 type: "FinalSlide"
