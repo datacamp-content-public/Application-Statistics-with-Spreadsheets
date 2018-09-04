@@ -27,13 +27,13 @@ The most commonly used measure of central tendency for numerical data are mean a
 
 Let us talk about mean first. The Mean indicates the average value of the data set. We will use the average function to find out the mean of the data. Using the formula <=AVERAGE(B4:B13)> we see that the mean age of the sample is 57.8 years.{{}} 
 
-Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the average function to find out the mean of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.{{}} 
+Another important measure of central tendency is median, but the main difference of median from mean is that it is more robust and is not influenced by the outliers or extreme values. We will use the MEDIAN formula to find out the median of the dataset. Using the formula <=MEDIAN(B4:B13)> we see that the median age of the sample is 53.5 years.{{}} 
 
 In this video, we have looked at some of the most commonly used measures of central tendency for numerical data. In our next video, we will take our analysis further and look at Measures of Spread, which are very important descriptive statistics techniques.
 
 
 ---
-## Measures of Spread
+## - Measures of Spread
 
 ```yaml
 type: "FinalSlide"
@@ -50,4 +50,6 @@ Another measure of spread is standard deviation which can be calculated in two w
 Note that the result is the same for both the methods, i.e, 15.9.
 
 Another measure is range which is basically the spread between the maximum and minimum values in the dataset. The formula for calculating range is <=MAX(B4:B13)-MIN(B4:B13)> which returns the value 47.
+
+We have covered Measures of Central Tendency and Spread and hopefully, you would be able to complete the exercises.
 
