@@ -17,7 +17,13 @@ title: Descriptive Statistics for Numerical Data
 
 
 `@script`
-Hello everyone, in this video we are going to take a closer look at Descriptive Statistics for numerical data, specifically age levels of ten respondents. Unit of age is in years.  
+`Hello` everyone, in this video we are going to take a closer look at Descriptive 
+
+> `Statistics`
+
+- Mean
+
+ for numerical data, specifically age levels of ten respondents. Unit of age is in years.  
 
 Let’s start by summarizing our data and the first thing to do is to count the number of observations in our data. We will do that with the Count function. The code is <=count(B3:B13)> , which gives us the value 10 showing that the number of observations is 10. {{}}
 
@@ -33,7 +39,8 @@ In this video, we have looked at some of the most commonly used measures of cent
 
 
 ---
-## - Measures of Spread
+## Measures of Spread
+
 
 ```yaml
 type: "FinalSlide"
