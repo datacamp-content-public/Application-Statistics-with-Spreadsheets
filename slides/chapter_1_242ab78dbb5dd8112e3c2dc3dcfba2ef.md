@@ -3,7 +3,7 @@ title: Insert title here
 key: 242ab78dbb5dd8112e3c2dc3dcfba2ef
 
 ---
-## Descriptive Statistics
+## Descriptive  Statistics
 
 ```yaml
 type: "TitleSlide"
@@ -16,6 +16,10 @@ name: Vikash Singh
 title: ### Descriptive Statistics for Numerical Data
 
 1. Measures of Central Tendency
+
+2. Measures of Spread 
+
+
 
 
 `@script`
