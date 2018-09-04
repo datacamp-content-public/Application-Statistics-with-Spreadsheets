@@ -39,7 +39,9 @@ In this video, we have looked at some of the most commonly used measures of cent
 
 
 ---
-## Measures of Spread
+## Measures of 
+
+- Spread
 
 ```yaml
 type: "FinalSlide"
