@@ -6,9 +6,9 @@ description: Test
 ## Descriptive Statistics for Numerical Data
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 1acc33d9df   
+type: VideoExercise
+key: 1acc33d9df
+xp: 50
 ```
 
 `@projector_key`
